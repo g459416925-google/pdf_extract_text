@@ -1,0 +1,5 @@
+# 忽略xlsx，忽略pdf
+*.xlsx
+*.pdf
+
+
